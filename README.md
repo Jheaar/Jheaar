@@ -1,4 +1,4 @@
-<h2 align="center"> Hi! I'm Arnold Ochoa ✨ </h2>
+<h2 align="center"> Hi! I'm Arnold Ochoa 👋 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/arnold-ochoa/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/23834ae3-22c2-45b9-ab02-65d0d3adab08" alt="my banner"></a>
 </p>
